@@ -1,6 +1,6 @@
 ---
 title: About WF7T
-feature_text: 
+feature_text: |
   ## Amateur Radio Station WF7T
   Shouting at Old Men on the Radio!
   Regarding Ham Radio, Radiosport, Techology, Whatever...
