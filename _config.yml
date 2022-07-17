@@ -39,7 +39,7 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: @wf7t # jekyll-seo-tag > Owners twitter username
+  username: wf7t # jekyll-seo-tag > Owners twitter username
 author: BradWF7T # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: Brad Brooks # jekyll-seo-tag > real name
