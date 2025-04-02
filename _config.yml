@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : "Yelling at old men on the radio" # site tagline that appears below site title in masthead
 name                     : "N. Brooks"
 description              : "Tech/Art/Lunch"
-url                      : "Https://wf7t.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://wf7t.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "WF7T/wf7t.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
